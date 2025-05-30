@@ -1,26 +1,18 @@
 # 🤖 ShalikAI
 
-Welcome to **ShalikAI** – where the intelligence of birds meets the precision of robotics.
+> 🕊️ *Shalik* — Inspired by the alertness and adaptability of the South Asian Myna bird.
+
+Welcome to **ShalikAI** – where the intelligence of birds meets the precision of robotics. 
 
 We are a robotics research and development organization working at the intersection of:
 
-- 🧠 Artificial Intelligence  
-- 🐦 Bio-inspired Design  
-- ⚙️ Real-World Robotics  
-- 🛰️ 3D Perception & SLAM  
-- 🤲 Dexterous Manipulation  
+- 🧠 Embodied AI
+- 🐦 All Terrain Robot
+- 🛰️ From SLAM to Spatial AI  
+- 🤲 Dexterous Manipulation
+- ⚙️ Fast Locomotion
 
 Our work is rooted in both academic rigor and real-world deployment, aiming to build intelligent, adaptable, and context-aware robotic systems.
-
----
-
-## 🚀 What We Do
-
-- 🟡 **Object Pose Estimation**
-- 🟢 **Grasp Planning & Manipulation**
-- 🔵 **Scene Understanding from RGB-D and Point Clouds**
-- 🟠 **Synthetic Data Generation for Robotics**
-- ⚫ **AI-driven Humanoid & Mobile Robot Integration**
 
 ---
 
@@ -37,11 +29,7 @@ Our work is rooted in both academic rigor and real-world deployment, aiming to b
 
 ## 📬 Contact
 
-- 🌐 Website: [shalikai.ai](https://shalikai.ai)
-- 📧 Email: contact@shalikai.ai
+- 🌐 Website: [shalikai.ai](https://shalikai.com)
+- 📧 Email: contact@shalikai.com
 - 🧠 GitHub Org: [github.com/shalikai](https://github.com/shalikai)
-
----
-
-> 🕊️ *Shalik* — Inspired by the alertness and adaptability of the South Asian myna bird.
 
