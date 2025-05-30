@@ -2,9 +2,7 @@
 
 > *Shalik* — Inspired by the alertness and adaptability of the South Asian Myna bird.
 
-Welcome to **ShalikAI** – where the intelligence of birds meets the precision of robotics. 
-
-We are a robotics research and development organization working at the intersection of:
+Welcome to **ShalikAI** – where the intelligence of birds meets the precision of robotics. We are a robotics research and development organization working at the intersection of:
 
 - 🧠 Embodied AI
 - 🐦 All Terrain Robot
@@ -18,18 +16,22 @@ Our work is rooted in both academic rigor and real-world deployment, aiming to b
 
 ## 📂 Featured Projects
 
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [`pose-estimator`](https://github.com/your-org/pose-estimator) | 6D pose estimation using deep learning and RGB-D input | Python, PyTorch |
-| [`slam-tools`](https://github.com/your-org/slam-tools) | Utilities for lidar and visual SLAM | C++, ROS |
-| [`synthetic-generator`](https://github.com/your-org/synthetic-generator) | BlenderProc/IsaacSim pipeline for dataset generation | Python |
-| [`grasp-detection`](https://github.com/your-org/grasp-detection) | Real-time grasp planning using point cloud input | C++, TensorRT |
+| Research Area | Description | Tech |
+|---------------|-------------|------|
+| [Embodied AI Research](https://github.com/ShalikAI/Embodied-AI-Simulators-For-Robotics) | AI models for robotic perception, reasoning, and action in complex environments | Python, PyTorch |
+| [Legged Robotics Research](https://github.com/ShalikAI/legged-robotics) | Control, planning, and state estimation for bipedal and quadrupedal robots | C++, ROS, Gazebo |
+| [Manipulation Robotics Research](https://github.com/ShalikAI/manipulation-robotics) | Grasp planning, contact-rich manipulation, and dexterous control | Python, PyTorch, Mujoco |
+| [UAV Robotics Research](https://github.com/ShalikAI/slam-tools) | Aerial robotics with onboard SLAM, planning, and obstacle avoidance | C++, ROS, PX4 |
+| [UGV Robotics Research](https://github.com/ShalikAI/synthetic-generator) | Ground vehicle navigation, terrain understanding, and dataset generation | Python, ROS, BlenderProc |
+| [USV Robotics Research](https://github.com/ShalikAI/grasp-detection) | Surface vehicle autonomy, GPS-denied navigation, and sensor fusion | C++, ROS, EKF |
+| [UWV Robotics Research](https://github.com/ShalikAI/uwv-navigation) | Underwater mapping, acoustic sensing, and autonomous control in marine environments | C++, ROS, OpenCV |
+| [Bio-inspired Robotics Research](https://github.com/ShalikAI/bio-inspired-robotics) | Design and control of robots inspired by animals and natural systems | Python, Simulink, ROS |
 
 ---
 
 ## 📬 Contact
 
 - 🌐 Website: [shalikai.com](https://shalikai.com)
-- 📧 Email: contact@shalikai.com
+- 📧 Email: arghyame20buet@gmail.com
 - 🧠 GitHub Org: [github.com/shalikai](https://github.com/shalikai)
 
