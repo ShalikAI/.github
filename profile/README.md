@@ -1,6 +1,6 @@
-# 🤖 ShalikAI
+# 🕊️ ShalikAI
 
-> 🕊️ *Shalik* — Inspired by the alertness and adaptability of the South Asian Myna bird.
+> *Shalik* — Inspired by the alertness and adaptability of the South Asian Myna bird.
 
 Welcome to **ShalikAI** – where the intelligence of birds meets the precision of robotics. 
 
