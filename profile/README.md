@@ -18,14 +18,14 @@ Our work is rooted in both academic rigor and real-world deployment, aiming to b
 
 | Research Area | Description | Tech |
 |---------------|-------------|------|
-| [Embodied AI Research](https://github.com/ShalikAI/Embodied-AI-Simulators-For-Robotics) | AI models for robotic perception, reasoning, and action in complex environments | Python, PyTorch |
-| [Legged Robotics Research](https://github.com/ShalikAI/legged-robotics) | Control, planning, and state estimation for bipedal and quadrupedal robots | C++, ROS, Gazebo |
-| [Manipulation Robotics Research](https://github.com/ShalikAI/manipulation-robotics) | Grasp planning, contact-rich manipulation, and dexterous control | Python, PyTorch, Mujoco |
-| [UAV Robotics Research](https://github.com/ShalikAI/slam-tools) | Aerial robotics with onboard SLAM, planning, and obstacle avoidance | C++, ROS, PX4 |
-| [UGV Robotics Research](https://github.com/ShalikAI/synthetic-generator) | Ground vehicle navigation, terrain understanding, and dataset generation | Python, ROS, BlenderProc |
-| [USV Robotics Research](https://github.com/ShalikAI/grasp-detection) | Surface vehicle autonomy, GPS-denied navigation, and sensor fusion | C++, ROS, EKF |
-| [UWV Robotics Research](https://github.com/ShalikAI/uwv-navigation) | Underwater mapping, acoustic sensing, and autonomous control in marine environments | C++, ROS, OpenCV |
-| [Bio-inspired Robotics Research](https://github.com/ShalikAI/bio-inspired-robotics) | Design and control of robots inspired by animals and natural systems | Python, Simulink, ROS |
+| [Embodied AI](https://github.com/ShalikAI/Embodied-AI-Simulators-For-Robotics) | AI models for robotic perception, reasoning, and action in complex environments | Python, PyTorch |
+| [Legged Robotics](https://github.com/ShalikAI/legged-robotics) | Control, planning, and state estimation for bipedal and quadrupedal robots | C++, ROS, Gazebo |
+| [Manipulation Robotics](https://github.com/ShalikAI/manipulation-robotics) | Grasp planning, contact-rich manipulation, and dexterous control | Python, PyTorch, Mujoco |
+| [UAV Robotics](https://github.com/ShalikAI/slam-tools) | Aerial robotics with onboard SLAM, planning, and obstacle avoidance | C++, ROS, PX4 |
+| [UGV Robotics](https://github.com/ShalikAI/synthetic-generator) | Ground vehicle navigation, terrain understanding, and dataset generation | Python, ROS, BlenderProc |
+| [USV Robotics](https://github.com/ShalikAI/grasp-detection) | Surface vehicle autonomy, GPS-denied navigation, and sensor fusion | C++, ROS, EKF |
+| [UWV Robotics](https://github.com/ShalikAI/uwv-navigation) | Underwater mapping, acoustic sensing, and autonomous control in marine environments | C++, ROS, OpenCV |
+| [Bio-inspired Robotics](https://github.com/ShalikAI/bio-inspired-robotics) | Design and control of robots inspired by animals and natural systems | Python, Simulink, ROS |
 
 ---
 
