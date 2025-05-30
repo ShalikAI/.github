@@ -10,7 +10,7 @@ We are a robotics research and development organization working at the intersect
 - 🐦 All Terrain Robot
 - 🛰️ From SLAM to Spatial AI  
 - 🤲 Dexterous Manipulation
-- ⚙️ Fast Locomotion
+- ⚙️ Adaptive Locomotion
 
 Our work is rooted in both academic rigor and real-world deployment, aiming to build intelligent, adaptable, and context-aware robotic systems.
 
