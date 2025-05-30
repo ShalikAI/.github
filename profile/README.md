@@ -29,7 +29,7 @@ Our work is rooted in both academic rigor and real-world deployment, aiming to b
 
 ## 📬 Contact
 
-- 🌐 Website: [shalikai.ai](https://shalikai.com)
+- 🌐 Website: [shalikai.com](https://shalikai.com)
 - 📧 Email: contact@shalikai.com
 - 🧠 GitHub Org: [github.com/shalikai](https://github.com/shalikai)
 
